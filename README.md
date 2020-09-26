@@ -1,9 +1,9 @@
 # webpack-configuracion-estandar
-Fin de la sección 8
+Base inicial para crear proyectos usando Webpack.
 
 
-## Nota
-Recuerden que para reconstruir los módulos de node deben de ejecutar este comando
+### Notas
+Recuerden que para reconstruir los módulos de node deben de ejecutar este comando:
 
 ```
 npm install
